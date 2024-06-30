@@ -34,7 +34,7 @@ pip install pytube
 *Ya solamente ejecuta el Script*
 
 ```bash
-python3 Download_URL.py
+python3 Python_Download_URL_YT.py
 ```
 
 # SUSCRIBETE AL CANAL
