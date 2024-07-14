@@ -35,7 +35,10 @@ pip install pytube
 
 ```bash
 python3 Python_Download_URL_YT.py
+
+python3 Download_Url_V2.py
 ```
+*Puedes usar cualquiera de los 2*
 
 # SUSCRIBETE AL CANAL
 
